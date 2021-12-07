@@ -1,4 +1,4 @@
-# Deployed Contract Addresses
+# Deployed Contract Addresses, Repos, and ABIs
 Deployed contract addresses for all Aavegotchi Contracts
 
 ## Ethereum
@@ -23,3 +23,13 @@ Deployed contract addresses for all Aavegotchi Contracts
 * GBM Diamond: https://github.com/aavegotchi/aavegotchi-gbm
 * Raffle Contract: https://github.com/aavegotchi/raffle
 * REALM Diamond: https://github.com/aavegotchi/aavegotchi-realm-diamond
+
+## ABIs
+
+* GHST Token: normal ERC20 ABI
+* Aavegotchi Diamond: https://github.com/aavegotchi/aavegotchi-contracts/blob/master/diamondABI/diamond.json
+* GHST Staking Diamond: https://github.com/aavegotchi/ghst-staking/blob/master/diamondABI/diamond.json
+* GBM Diamond: https://github.com/aavegotchi/aavegotchi-gbm/blob/master/diamondABI/diamond.json
+* Raffle Contract: coming soon
+* REALM Diamond: https://github.com/aavegotchi/aavegotchi-realm-diamond/blob/master/diamondABI/diamond.json
+
