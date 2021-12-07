@@ -14,3 +14,12 @@ Deployed contract addresses for all Aavegotchi Contracts
 * Aavegotchi GBM Diamond: https://polygonscan.com/token/0xa44c8e0eCAEFe668947154eE2b803Bd4e6310EFe
 * Aavegotchi Raffle Contract: https://polygonscan.com/token/0x6c723cac1E35FE29a175b287AE242d424c52c1CE
 * Aavegotchi REALM Diamond: https://polygonscan.com/token/0x1D0360BaC7299C86Ec8E99d0c1C9A95FEfaF2a11
+
+## Github Repos
+
+* GHST Token: https://github.com/AragonBlack/fundraising
+* Aavegotchi Diamond: https://github.com/aavegotchi/aavegotchi-contracts
+* GHST Staking Diamond: https://github.com/aavegotchi/ghst-staking
+* GBM Diamond: https://github.com/aavegotchi/aavegotchi-gbm
+* Raffle Contract: https://github.com/aavegotchi/raffle
+* REALM Diamond: https://github.com/aavegotchi/aavegotchi-realm-diamond
