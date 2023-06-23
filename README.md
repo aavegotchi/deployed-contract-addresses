@@ -15,7 +15,15 @@ Deployed contract addresses for all Aavegotchi Contracts
 * Aavegotchi GBM Diamond: https://polygonscan.com/token/0xa44c8e0eCAEFe668947154eE2b803Bd4e6310EFe
 * Aavegotchi GBM Baazaar Diamond: https://polygonscan.com/address/0xd5543237c656f25eea69f1e247b8fa59ba353306
 * Aavegotchi Raffle Contract: https://polygonscan.com/token/0x6c723cac1E35FE29a175b287AE242d424c52c1CE
-* Aavegotchi REALM Diamond: https://polygonscan.com/token/0x1D0360BaC7299C86Ec8E99d0c1C9A95FEfaF2a11
+* Gotchiverse REALM Diamond: https://polygonscan.com/token/0x1D0360BaC7299C86Ec8E99d0c1C9A95FEfaF2a11
+* Gotchiverse Installations https://polygonscan.com/address/0x19f870bd94a34b3adaa9caa439d333da18d6812a
+* Gotchiverse Tiles Diamond: https://polygonscan.com/address/0x9216c31d8146bCB3eA5a9162Dc1702e8AEDCa355
+* Aavegotchi FUD Token: https://polygonscan.com/address/0x403e967b044d4be25170310157cb1a4bf10bdd0f
+* Aavegotchi FOMO Token: https://polygonscan.com/address/0x44a6e0be76e1d9620a7f76588e4509fe4fa8e8c8
+* Aavegotchi ALPHA Token: https://polygonscan.com/address/0x6a3e7c3c6ef65ee26975b12293ca1aad7e1daed2
+* Aavegotchi KEK Token: https://polygonscan.com/address/0x42e5e06ef5b90fe15f853f59299fc96259209c5c
+* Aavegotchi GLTR Token: https://polygonscan.com/address/0x3801C3B3B5c98F88a9c9005966AA96aa440B9Afc
+* GLTR Staking Diamond: https://polygonscan.com/address/0x1fE64677Ab1397e20A1211AFae2758570fEa1B8c
 
 ## Github Repos
 
@@ -24,7 +32,7 @@ Deployed contract addresses for all Aavegotchi Contracts
 * GHST Staking Diamond: https://github.com/aavegotchi/ghst-staking
 * GBM Diamond: https://github.com/aavegotchi/aavegotchi-gbm
 * Raffle Contract: https://github.com/aavegotchi/raffle
-* REALM Diamond: https://github.com/aavegotchi/aavegotchi-realm-diamond
+* REALM Diamond (REALM, Installations, Tiles): https://github.com/aavegotchi/aavegotchi-realm-diamond
 
 ## ABIs
 
