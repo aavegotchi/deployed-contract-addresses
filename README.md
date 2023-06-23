@@ -25,6 +25,9 @@ Deployed contract addresses for all Aavegotchi Contracts
 * Aavegotchi KEK Token: https://polygonscan.com/address/0x42e5e06ef5b90fe15f853f59299fc96259209c5c
 * Aavegotchi GLTR Token: https://polygonscan.com/address/0x3801C3B3B5c98F88a9c9005966AA96aa440B9Afc
 * GLTR Staking Diamond: https://polygonscan.com/address/0x1fE64677Ab1397e20A1211AFae2758570fEa1B8c
+* FAKE Gotchis Art Diamond (ERC721): https://polygonscan.com/address/0xA4E3513c98b30d4D7cc578d2C328Bd550725D1D0
+* FAKE Gotchi Card Diamond (ERC1155): https://polygonscan.com/address/0x9f6BcC63e86D44c46e85564E9383E650dc0b56D7
+* Forge Diamond: https://polygonscan.com/address/0x4fDfc1B53Fd1D80d969C984ba7a8CE4c7bAaD442 
 
 ## Github Repos
 
