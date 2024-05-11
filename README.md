@@ -29,7 +29,7 @@ Deployed contract addresses for all Aavegotchi Contracts
 * FAKE Gotchi Card Diamond (ERC1155): https://polygonscan.com/address/0x9f6BcC63e86D44c46e85564E9383E650dc0b56D7
 * Forge Diamond: https://polygonscan.com/address/0x4fDfc1B53Fd1D80d969C984ba7a8CE4c7bAaD442
 
-* ## Base
+## Base
 * GHST Token: https://basescan.org/address/0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb
 
 ## Github Repos
