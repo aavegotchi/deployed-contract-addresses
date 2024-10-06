@@ -54,10 +54,15 @@ Deployed contract addresses for all Aavegotchi Contracts
 
 - GHST Token: https://basescan.org/address/0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb
 
-## Base Sepolia
+## Base Sepolia Testnet
+
 - GHST TOken :
   https://sepolia.basescan.org/address/0xe97f36a00058aa7dfc4e85d23532c3f70453a7ae
-  
+
+## Ethereum Sepolia Testnet
+
+- GHST Token: https://sepolia.etherscan.io/token/0xb40b75b4a8e5153357b3e5e4343d997b1a1019f9
+
 ## Github Repos
 
 - GHST Token: https://github.com/AragonBlack/fundraising
