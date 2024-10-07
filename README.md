@@ -36,7 +36,7 @@ Deployed contract addresses for all Aavegotchi Contracts
 - Aavegotchi Diamond: https://amoy.polygonscan.com/token/0xC80DB01aeDAD5F6E3088c75F60E52f579Cf1D3Cb
 - Wearable Diamond: https://amoy.polygonscan.com/address/0xAA201d960404140296Ea85570940830be08DAc70
 - GHST Staking Diamond: https://amoy.polygonscan.com/token/0xae83d5fc564Ef58224e934ba4Df72a100d5082a0
-- Aavegotchi GBM Baazaar Diamond: https://amoy.polygonscan.com/address/0xC2D0a003362Cd11B9386F8132A20F97da4cee3D6
+- Aavegotchi GBM Baazaar Diamond: https://amoy.polygonscan.com/address/0x05861AD79377542648206C5F7bFd664505BB4dA4#code
 - Aavegotchi Raffle Contract: https://amoy.polygonscan.com/token/0x6c723cac1E35FE29a175b287AE242d424c52c1CE
 - Gotchiverse REALM Diamond: https://amoy.polygonscan.com/token/0x5a4faEb79951bAAa0866B72fD6517E693c8E4620
 - Gotchiverse Installations https://amoy.polygonscan.com/address/0x514b7c55FB3DFf3533B58D85CD25Ba04bb30612D
