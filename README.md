@@ -63,6 +63,16 @@ Deployed contract addresses for all Aavegotchi Contracts
 
 - GHST Token: https://sepolia.etherscan.io/token/0xb40b75b4a8e5153357b3e5e4343d997b1a1019f9
 
+## Polter Testnet 
+
+- Aavegotchi Gaming Console: https://polter-testnet.explorer.alchemy.com/address/0x2a9e7A2A9FeD4A83F59125cFf72761E467cEa419
+- Geist Contracts: https://polter-testnet.explorer.alchemy.com/address/0x9B8ABDFD4d6A09eff1bE25F0280124fa5a707465
+- FUD Token: https://polter-testnet.explorer.alchemy.com/token/0x3C3a6c106A4BF3859be474c1ee5E3Df25e38f052
+- FOMO Token: https://polter-testnet.explorer.alchemy.com/token/0xF66B88D03f284A21b9e1051de6cc8aEC5cac8893
+- ALPHA Token: https://polter-testnet.explorer.alchemy.com/token/0x3F791E8fbDEF7475f44e70f0eb4bEc89636aAdC8
+- KEK Token: https://polter-testnet.explorer.alchemy.com/token/0x3236D1bf08927BE6303717bB4651F694A3472eB6
+- GLTR Token: https://polter-testnet.explorer.alchemy.com/token/0x2028b4043e6722Ea164946c82fe806c4a43a0fF4 
+
 ## Github Repos
 
 - GHST Token: https://github.com/AragonBlack/fundraising
