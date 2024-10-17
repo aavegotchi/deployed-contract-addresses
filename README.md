@@ -71,7 +71,9 @@ Deployed contract addresses for all Aavegotchi Contracts
 - FOMO Token: https://polter-testnet.explorer.alchemy.com/token/0xF66B88D03f284A21b9e1051de6cc8aEC5cac8893
 - ALPHA Token: https://polter-testnet.explorer.alchemy.com/token/0x3F791E8fbDEF7475f44e70f0eb4bEc89636aAdC8
 - KEK Token: https://polter-testnet.explorer.alchemy.com/token/0x3236D1bf08927BE6303717bB4651F694A3472eB6
-- GLTR Token: https://polter-testnet.explorer.alchemy.com/token/0x2028b4043e6722Ea164946c82fe806c4a43a0fF4 
+- GLTR Token: https://polter-testnet.explorer.alchemy.com/token/0x2028b4043e6722Ea164946c82fe806c4a43a0fF4
+- GV Photos Diamond: https://polter-testnet.explorer.alchemy.com/address/0x1eD34c0C9b0f08Bb013CD16E4b75A77cf47cE919
+- GV Postcards Diamond: https://polter-testnet.explorer.alchemy.com/address/0x252e9438f70ECC17DfCC2373303fC6e5709d7F97
 
 ## Github Repos
 
