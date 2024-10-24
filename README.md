@@ -66,6 +66,7 @@ Deployed contract addresses for all Aavegotchi Contracts
 ## Polter Testnet 
 
 - Aavegotchi Diamond (Geist Version): https://polter-testnet.explorer.alchemy.com/token/0x1F0eb9099b9c398323dcf2F133dFdAD9dE7cF994
+- WGHST (GHST version of WETH): https://polter-testnet.explorer.alchemy.com/token/0x05F97E9D23b0DFA96A1c349a6685B2A046729F37
 - Aavegotchi Gaming Console: https://polter-testnet.explorer.alchemy.com/address/0x2a9e7A2A9FeD4A83F59125cFf72761E467cEa419
 - Geist Contracts: https://polter-testnet.explorer.alchemy.com/address/0x9B8ABDFD4d6A09eff1bE25F0280124fa5a707465
 - FUD Token: https://polter-testnet.explorer.alchemy.com/token/0x3C3a6c106A4BF3859be474c1ee5E3Df25e38f052
