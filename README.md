@@ -37,7 +37,8 @@ Deployed contract addresses for all Aavegotchi Contracts
 - Wearable Diamond: https://amoy.polygonscan.com/address/0xAA201d960404140296Ea85570940830be08DAc70
 - GHST Staking Diamond: https://amoy.polygonscan.com/token/0xae83d5fc564Ef58224e934ba4Df72a100d5082a0
 - Aavegotchi GBM Baazaar Diamond: https://amoy.polygonscan.com/address/0x05861AD79377542648206C5F7bFd664505BB4dA4#code
-- Aavegotchi Raffle Contract: https://amoy.polygonscan.com/token/0x6c723cac1E35FE29a175b287AE242d424c52c1CE
+- Aavegotchi Raffle Contract: https://amoy.polygonscan.com/token/0x6c723cac1E35FE29a175b287AE242d4
+- 24c52c1CE
 - Gotchiverse REALM Diamond: https://amoy.polygonscan.com/token/0x5a4faEb79951bAAa0866B72fD6517E693c8E4620
 - Gotchiverse Installations https://amoy.polygonscan.com/address/0x514b7c55FB3DFf3533B58D85CD25Ba04bb30612D
 - Gotchiverse Tiles Diamond: https://amoy.polygonscan.com/address/0xCa6F4Ef19a1Beb9BeF12f64b395087E5680bcB22
@@ -76,6 +77,7 @@ Deployed contract addresses for all Aavegotchi Contracts
 - GLTR SuperToken: https://polter-testnet.explorer.alchemy.com/token/0x2028b4043e6722Ea164946c82fe806c4a43a0fF4
 - GV Photos Diamond: https://polter-testnet.explorer.alchemy.com/address/0x1eD34c0C9b0f08Bb013CD16E4b75A77cf47cE919
 - GV Postcards Diamond: https://polter-testnet.explorer.alchemy.com/address/0x252e9438f70ECC17DfCC2373303fC6e5709d7F97
+- Geist Milestones Minter Diamond: https://polter-testnet.explorer.alchemy.com/address/0x9878313177fCfF8170a12B2bA72fFCa753a94E7D
 
 ## Github Repos
 
