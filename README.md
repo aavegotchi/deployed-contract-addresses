@@ -59,6 +59,7 @@ Deployed contract addresses for all Aavegotchi Contracts
 
 - GHST Token :
   https://sepolia.basescan.org/address/0xe97f36a00058aa7dfc4e85d23532c3f70453a7ae
+- Aavegotchi Diamond: https://sepolia.basescan.org/token/0x87C969d083189927049f8fF3747703FB9f7a8AEd
 
 ## Ethereum Sepolia Testnet
 
