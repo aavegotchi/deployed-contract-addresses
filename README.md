@@ -65,6 +65,10 @@ Deployed contract addresses for all Aavegotchi Contracts
 
 - GHST Token: https://sepolia.etherscan.io/token/0xb40b75b4a8e5153357b3e5e4343d997b1a1019f9
 
+## Geist Mainnet
+- WGHST: https://geist-mainnet.explorer.alchemy.com/address/0x74e2051A9Cd994F83f2d789448dCa4a3e879964c
+- Geist ID: https://geist-mainner.explorer.alchemy.com/address/0x88c7a119f0FF028e7582062Bf63C0e0C138F84F6
+
 ## Polter Testnet 
 
 - Aavegotchi Diamond (Geist Version): https://polter-testnet.explorer.alchemy.com/token/0x1F0eb9099b9c398323dcf2F133dFdAD9dE7cF994
