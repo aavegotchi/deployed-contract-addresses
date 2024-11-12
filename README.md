@@ -66,20 +66,21 @@ Deployed contract addresses for all Aavegotchi Contracts
 - GHST Token: https://sepolia.etherscan.io/token/0xb40b75b4a8e5153357b3e5e4343d997b1a1019f9
 
 ## Geist Mainnet
+
 - WGHST: https://geist-mainnet.explorer.alchemy.com/address/0x74e2051A9Cd994F83f2d789448dCa4a3e879964c
 - Geist ID: https://geist-mainner.explorer.alchemy.com/address/0x88c7a119f0FF028e7582062Bf63C0e0C138F84F6
 
-## Polter Testnet 
+## Polter Testnet
 
 - Aavegotchi Diamond (Geist Version): https://polter-testnet.explorer.alchemy.com/token/0x1F0eb9099b9c398323dcf2F133dFdAD9dE7cF994
 - WGHST (GHST version of WETH): https://polter-testnet.explorer.alchemy.com/token/0x443650Be09A02Be6fa79Ba19169A853A33581660
 - Aavegotchi Gaming Console: https://polter-testnet.explorer.alchemy.com/address/0x2a9e7A2A9FeD4A83F59125cFf72761E467cEa419
 - Geist Contracts: https://polter-testnet.explorer.alchemy.com/address/0x9B8ABDFD4d6A09eff1bE25F0280124fa5a707465
-- FUD SuperToken: https://polter-testnet.explorer.alchemy.com/token/0x3C3a6c106A4BF3859be474c1ee5E3Df25e38f052
-- FOMO SuperToken: https://polter-testnet.explorer.alchemy.com/token/0xF66B88D03f284A21b9e1051de6cc8aEC5cac8893
-- ALPHA SuperToken: https://polter-testnet.explorer.alchemy.com/token/0x3F791E8fbDEF7475f44e70f0eb4bEc89636aAdC8
-- KEK SuperToken: https://polter-testnet.explorer.alchemy.com/token/0x3236D1bf08927BE6303717bB4651F694A3472eB6
-- GLTR SuperToken: https://polter-testnet.explorer.alchemy.com/token/0x2028b4043e6722Ea164946c82fe806c4a43a0fF4
+- FUD SuperToken: https://polter-testnet.explorer.alchemy.com/token/0xDe400e81E17a4a0A3346083fdFA0095A3DB8F5ad
+- FOMO SuperToken: https://polter-testnet.explorer.alchemy.com/token/0x6c1416c181ad94e53B7E594A0bcB2ea4a252B685
+- ALPHA SuperToken: https://polter-testnet.explorer.alchemy.com/token/0x26b133c4A2C85D7e980D64726D9C05A504c7099B
+- KEK SuperToken: https://polter-testnet.explorer.alchemy.com/token/0x881024E96fE3fAb34867E735626c29c18f8F9B2C
+- GLTR SuperToken: https://polter-testnet.explorer.alchemy.com/token/0x0317411380788e7F67a7c1EC40427aB1940f7eD7
 - GV Photos Diamond: https://polter-testnet.explorer.alchemy.com/address/0x1eD34c0C9b0f08Bb013CD16E4b75A77cf47cE919
 - GV Postcards Diamond: https://polter-testnet.explorer.alchemy.com/address/0x252e9438f70ECC17DfCC2373303fC6e5709d7F97
 - Geist Milestones Minter Diamond: https://polter-testnet.explorer.alchemy.com/address/0x9878313177fCfF8170a12B2bA72fFCa753a94E7D
