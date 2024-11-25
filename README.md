@@ -76,6 +76,9 @@ Deployed contract addresses for all Aavegotchi Contracts
 - WGHST (GHST version of WETH): https://polter-testnet.explorer.alchemy.com/token/0x443650Be09A02Be6fa79Ba19169A853A33581660
 - Aavegotchi Gaming Console: https://polter-testnet.explorer.alchemy.com/address/0x2a9e7A2A9FeD4A83F59125cFf72761E467cEa419
 - Geist Contracts: https://polter-testnet.explorer.alchemy.com/address/0x9B8ABDFD4d6A09eff1bE25F0280124fa5a707465
+- Gotchiverse REALM Diamond: https://polter-testnet.explorer.alchemy.com/token/0x757350869A1e90fcC9B46d45f31da518e092eB99
+- Gotchiverse Installations: https://polter-testnet.explorer.alchemy.com/token/0x17151a3df8A48aB381DE1643Ae2B22C5e0Eb4208
+- Gotchiverse Tiles Diamond: https://polter-testnet.explorer.alchemy.com/token/0xfCE1e6854E2A43d58736Dfa0c84772FB2492Ee28
 - FUD SuperToken: https://polter-testnet.explorer.alchemy.com/token/0xDe400e81E17a4a0A3346083fdFA0095A3DB8F5ad
 - FOMO SuperToken: https://polter-testnet.explorer.alchemy.com/token/0x6c1416c181ad94e53B7E594A0bcB2ea4a252B685
 - ALPHA SuperToken: https://polter-testnet.explorer.alchemy.com/token/0x26b133c4A2C85D7e980D64726D9C05A504c7099B
