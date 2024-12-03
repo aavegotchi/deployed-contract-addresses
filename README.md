@@ -68,7 +68,8 @@ Deployed contract addresses for all Aavegotchi Contracts
 ## Geist Mainnet
 
 - WGHST: https://geist-mainnet.explorer.alchemy.com/address/0x74e2051A9Cd994F83f2d789448dCa4a3e879964c
-- Geist ID: https://geist-mainner.explorer.alchemy.com/address/0x88c7a119f0FF028e7582062Bf63C0e0C138F84F6
+- Geist ID: https://geist-mainnet.explorer.alchemy.com/address/0x88c7a119f0FF028e7582062Bf63C0e0C138F84F6
+- Aavegotchi Gaming Console Contract (GOTCHI Points, Badges, and Wheel): https://geist-mainnet.explorer.alchemy.com/address/0x64D03E24E2d3fB3b22bD4B573d5E9981632C3F8a
 
 ## Polter Testnet
 
