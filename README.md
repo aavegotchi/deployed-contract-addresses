@@ -71,6 +71,12 @@ Deployed contract addresses for all Aavegotchi Contracts
 - Geist ID: https://geist-mainnet.explorer.alchemy.com/address/0x88c7a119f0FF028e7582062Bf63C0e0C138F84F6
 - Aavegotchi Gaming Console Contract (GOTCHI Points, Badges, and Wheel): https://geist-mainnet.explorer.alchemy.com/address/0x64D03E24E2d3fB3b22bD4B573d5E9981632C3F8a
 - Gotchi Guardians Skins: https://geist-mainnet.explorer.alchemy.com/address/0x7B1D9b594c875c0A807f65E8a92E8A8Ccd740060
+- FUD Token: https://geist-mainnet.explorer.alchemy.com/address/0x45a75B81f95FA0C27fa386cd7923a6AaE1858D8c
+- FOMO Token: https://geist-mainnet.explorer.alchemy.com/address/0xA18510f2ABA401A26E94c61de356B6caA9df2761
+- ALPHA Token: https://geist-mainnet.explorer.alchemy.com/address/0xcCDA08a4EE78Ee6adf033722365729Bd891cE5C0
+- KEK Token: https://geist-mainnet.explorer.alchemy.com/address/0xae99B27EdF1db7Df6eF7C15E3F40cA5666Bd950D
+- GLTR Token: https://geist-mainnet.explorer.alchemy.com/address/0x1Cf08D9b7860D1fDB10F01f14e56AbcE15D14Bcf
+- Aavegotchi Diamond: https://geist-mainnet.explorer.alchemy.com/address/0x6Acc828BbbC6874de40Ca20bfeA7Cd2a2DA8DA8c 
 
 ## Polter Testnet
 
