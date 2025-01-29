@@ -76,7 +76,8 @@ Deployed contract addresses for all Aavegotchi Contracts
 - ALPHA Token: https://geist-mainnet.explorer.alchemy.com/address/0xcCDA08a4EE78Ee6adf033722365729Bd891cE5C0
 - KEK Token: https://geist-mainnet.explorer.alchemy.com/address/0xae99B27EdF1db7Df6eF7C15E3F40cA5666Bd950D
 - GLTR Token: https://geist-mainnet.explorer.alchemy.com/address/0x1Cf08D9b7860D1fDB10F01f14e56AbcE15D14Bcf
-- Aavegotchi Diamond: https://geist-mainnet.explorer.alchemy.com/address/0x6Acc828BbbC6874de40Ca20bfeA7Cd2a2DA8DA8c 
+- Aavegotchi Diamond: https://geist-mainnet.explorer.alchemy.com/address/0x6Acc828BbbC6874de40Ca20bfeA7Cd2a2DA8DA8c
+- GBM Diamond: https://geist-mainnet.explorer.alchemy.com/address/0xF20f3C8e3b42eB3f5EbD12191480D89451CaA021
 
 ## Polter Testnet
 
