@@ -60,39 +60,12 @@ Deployed contract addresses for all Aavegotchi Contracts
 - GHST Token :
   https://sepolia.basescan.org/address/0xe97f36a00058aa7dfc4e85d23532c3f70453a7ae
 - Aavegotchi Diamond: https://sepolia.basescan.org/token/0x87C969d083189927049f8fF3747703FB9f7a8AEd
+- Gotchi Guardians Skins Diamond: https://sepolia.basescan.org/token/0xab1e7e320f02107bf2748179ed0c0bcfd5532e4a
+- Gotchi Guardians Profile Diamond: https://sepolia.basescan.org/token/0x15517138573ce459943da529c9530ef76a22b713
 
 ## Ethereum Sepolia Testnet
 
 - GHST Token: https://sepolia.etherscan.io/token/0xb40b75b4a8e5153357b3e5e4343d997b1a1019f9
-
-## Geist Mainnet
-
-- WGHST: https://geist-mainnet.explorer.alchemy.com/address/0x74e2051A9Cd994F83f2d789448dCa4a3e879964c
-- Geist ID: https://geist-mainnet.explorer.alchemy.com/address/0x88c7a119f0FF028e7582062Bf63C0e0C138F84F6
-- Aavegotchi Gaming Console Contract (GOTCHI Points, Badges, and Wheel): https://geist-mainnet.explorer.alchemy.com/address/0x64D03E24E2d3fB3b22bD4B573d5E9981632C3F8a
-- Gotchi Guardians Skins: https://geist-mainnet.explorer.alchemy.com/address/0x7B1D9b594c875c0A807f65E8a92E8A8Ccd740060
-- FUD Token: https://geist-mainnet.explorer.alchemy.com/address/0x45a75B81f95FA0C27fa386cd7923a6AaE1858D8c
-- FOMO Token: https://geist-mainnet.explorer.alchemy.com/address/0xA18510f2ABA401A26E94c61de356B6caA9df2761
-- ALPHA Token: https://geist-mainnet.explorer.alchemy.com/address/0xcCDA08a4EE78Ee6adf033722365729Bd891cE5C0
-- KEK Token: https://geist-mainnet.explorer.alchemy.com/address/0xae99B27EdF1db7Df6eF7C15E3F40cA5666Bd950D
-- GLTR Token: https://geist-mainnet.explorer.alchemy.com/address/0x1Cf08D9b7860D1fDB10F01f14e56AbcE15D14Bcf
-- Aavegotchi Diamond: https://geist-mainnet.explorer.alchemy.com/address/0x6Acc828BbbC6874de40Ca20bfeA7Cd2a2DA8DA8c
-- GBM Diamond: https://geist-mainnet.explorer.alchemy.com/address/0xF20f3C8e3b42eB3f5EbD12191480D89451CaA021
-
-## Polter Testnet
-
-- Aavegotchi Diamond (Geist Version): https://polter-testnet.explorer.alchemy.com/token/0x1F0eb9099b9c398323dcf2F133dFdAD9dE7cF994
-- WGHST (GHST version of WETH): https://polter-testnet.explorer.alchemy.com/token/0x443650Be09A02Be6fa79Ba19169A853A33581660
-- Aavegotchi Gaming Console: https://polter-testnet.explorer.alchemy.com/address/0x2a9e7A2A9FeD4A83F59125cFf72761E467cEa419
-- Geist Contracts: https://polter-testnet.explorer.alchemy.com/address/0x9B8ABDFD4d6A09eff1bE25F0280124fa5a707465
-- FUD SuperToken: https://polter-testnet.explorer.alchemy.com/token/0xDe400e81E17a4a0A3346083fdFA0095A3DB8F5ad
-- FOMO SuperToken: https://polter-testnet.explorer.alchemy.com/token/0x6c1416c181ad94e53B7E594A0bcB2ea4a252B685
-- ALPHA SuperToken: https://polter-testnet.explorer.alchemy.com/token/0x26b133c4A2C85D7e980D64726D9C05A504c7099B
-- KEK SuperToken: https://polter-testnet.explorer.alchemy.com/token/0x881024E96fE3fAb34867E735626c29c18f8F9B2C
-- GLTR SuperToken: https://polter-testnet.explorer.alchemy.com/token/0x0317411380788e7F67a7c1EC40427aB1940f7eD7
-- GV Photos Diamond: https://polter-testnet.explorer.alchemy.com/address/0x1eD34c0C9b0f08Bb013CD16E4b75A77cf47cE919
-- GV Postcards Diamond: https://polter-testnet.explorer.alchemy.com/address/0x252e9438f70ECC17DfCC2373303fC6e5709d7F97
-- Geist Milestones Minter Diamond: https://polter-testnet.explorer.alchemy.com/address/0x9878313177fCfF8170a12B2bA72fFCa753a94E7D
 
 ## Github Repos
 
