@@ -67,6 +67,7 @@ Deployed contract addresses for all Aavegotchi Contracts
 - Tile Diamond: https://sepolia.basescan.org/token/0x96B19Fa954d961fAD4b665e3259C72466ca4C1dA
 - Gotchi Guardians Skins Diamond: https://sepolia.basescan.org/token/0xab1e7e320f02107bf2748179ed0c0bcfd5532e4a
 - Gotchi Guardians Profile Diamond: https://sepolia.basescan.org/token/0x15517138573ce459943da529c9530ef76a22b713
+- GBM Baazaar Diamond: https://sepolia.basescan.org/token/0x0f685B66D7a5E67EDC584c5FdD28E38ba05fAFbb
 
 ## Ethereum Sepolia Testnet
 
