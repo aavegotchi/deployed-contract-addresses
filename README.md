@@ -59,9 +59,9 @@ Deployed contract addresses for all Aavegotchi Contracts
 
 - GHST Token :
   https://sepolia.basescan.org/address/0xe97f36a00058aa7dfc4e85d23532c3f70453a7ae
-- Aavegotchi Diamond: https://sepolia.basescan.org/token/0x10759c35F8dE7E6172BB30e0B10312c1a295aC2F
-- Forge Diamond: https://sepolia.basescan.org/token/0x17D1fd7B55c60d003f5B850aE34613DCcB68b661
-- Wearable Diamond: https://sepolia.basescan.org/token/0xBB8613F101b57b33c00E8Fb46E8725A0b8D7eAff
+- Aavegotchi Diamond: https://sepolia.basescan.org/token/0x6Cff314D21244BB4a907A5D5E5305abE07eefAeC
+- Forge Diamond: https://sepolia.basescan.org/token/0x607E447b8222cdd73Fc9AA7D399784FB1f4E8f3a
+- Wearable Diamond: https://sepolia.basescan.org/token/0x03e26fF22F4BbbeD3049A02242e1D4C43947Feb0
 - REALM Diamond: https://sepolia.basescan.org/token/0x37D140074B2f771bEa7ef23288EB87064e45bF8D
 - Installation Diamond: https://sepolia.basescan.org/token/0x5Aefdc5283B24EEa7b50FFBBf7FB8A2bD4537609
 - Tile Diamond: https://sepolia.basescan.org/token/0x96B19Fa954d961fAD4b665e3259C72466ca4C1dA
