@@ -54,6 +54,12 @@ Deployed contract addresses for all Aavegotchi Contracts
 ## Base
 
 - GHST Token: https://basescan.org/address/0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb
+- Aavegotchi Diamond: https://basescan.org/address/0xa99c4b08201f2913db8d28e71d020c4298f29dbf
+- Aavegotchi Wearable Diamond: https://basescan.org/address/0x052e6c114a166B0e91C2340370d72D4C33752B4b
+- Aavegotchi Forge Diamond: https://basescan.org/address/0x50aF2d63b839aA32b4166FD1Cb247129b715186C
+- FAKE Gotchis Cards: https://basescan.org/address/0xe46B8902dAD841476d9Fee081F1d62aE317206A9
+- FAKE Gotchis Art: https://basescan.org/address/0xAb59CA4A16925b0a4BaC5026C94bEB20A29Df479
+- GBM Auction (Baazaar): https://basescan.org/address/0x80320A0000C7A6a34086E2ACAD6915Ff57FfDA31
 
 ## Base Sepolia Testnet
 
