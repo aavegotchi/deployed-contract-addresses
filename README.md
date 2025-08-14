@@ -61,6 +61,7 @@ Deployed contract addresses for all Aavegotchi Contracts
 - FAKE Gotchis Art: https://basescan.org/address/0xAb59CA4A16925b0a4BaC5026C94bEB20A29Df479
 - GBM Auction (Baazaar): https://basescan.org/address/0x80320A0000C7A6a34086E2ACAD6915Ff57FfDA31
 - Gotchi Guardians Skins: https://basescan.org/address/0x898d0F54d8CF60698972a75be7Ea1B45aAb66e59
+- Gotchi Guardians Profile: https://basescan.org/address/0xdc27a8BF85508387cB8c3B97BA77f3941eDFF45f
 
 ## Base Sepolia Testnet
 
