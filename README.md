@@ -11,45 +11,24 @@ Deployed contract addresses for all Aavegotchi Contracts
 
 - GHST Token (Proxy Address): https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7
 - GHST Token (Implementation Address): https://polygonscan.com/address/0x5004bc7e5b718c245ca859db349dd012cfd58395#code
-- Aavegotchi Diamond: https://polygonscan.com/token/0x86935F11C86623deC8a25696E1C19a8659CbF95d
-- Wearable Diamond: https://polygonscan.com/address/0x58de9AaBCaeEC0f69883C94318810ad79Cc6a44f
+- (Deprecated) Aavegotchi Diamond: https://polygonscan.com/token/0x86935F11C86623deC8a25696E1C19a8659CbF95d
+- (Deprecated) Wearable Diamond: https://polygonscan.com/address/0x58de9AaBCaeEC0f69883C94318810ad79Cc6a44f
 - GHST Staking Diamond: https://polygonscan.com/token/0xA02d547512Bb90002807499F05495Fe9C4C3943f
-- Aavegotchi GBM Diamond: https://polygonscan.com/token/0xa44c8e0eCAEFe668947154eE2b803Bd4e6310EFe
-- Aavegotchi GBM Baazaar Diamond: https://polygonscan.com/address/0xd5543237c656f25eea69f1e247b8fa59ba353306
-- Aavegotchi Raffle Contract: https://polygonscan.com/token/0x6c723cac1E35FE29a175b287AE242d424c52c1CE
-- Gotchiverse REALM Diamond: https://polygonscan.com/token/0x1D0360BaC7299C86Ec8E99d0c1C9A95FEfaF2a11
-- Gotchiverse Installations https://polygonscan.com/address/0x19f870bd94a34b3adaa9caa439d333da18d6812a
-- Gotchiverse Tiles Diamond: https://polygonscan.com/address/0x9216c31d8146bCB3eA5a9162Dc1702e8AEDCa355
-- Aavegotchi FUD Token: https://polygonscan.com/address/0x403e967b044d4be25170310157cb1a4bf10bdd0f
-- Aavegotchi FOMO Token: https://polygonscan.com/address/0x44a6e0be76e1d9620a7f76588e4509fe4fa8e8c8
-- Aavegotchi ALPHA Token: https://polygonscan.com/address/0x6a3e7c3c6ef65ee26975b12293ca1aad7e1daed2
-- Aavegotchi KEK Token: https://polygonscan.com/address/0x42e5e06ef5b90fe15f853f59299fc96259209c5c
-- Aavegotchi GLTR Token: https://polygonscan.com/address/0x3801C3B3B5c98F88a9c9005966AA96aa440B9Afc
+- (Deprecated) Aavegotchi GBM Diamond: https://polygonscan.com/token/0xa44c8e0eCAEFe668947154eE2b803Bd4e6310EFe
+- (Deprecated) Aavegotchi GBM Baazaar Diamond: https://polygonscan.com/address/0xd5543237c656f25eea69f1e247b8fa59ba353306
+- (Deprecated) Aavegotchi Raffle Contract: https://polygonscan.com/token/0x6c723cac1E35FE29a175b287AE242d424c52c1CE
+- (Deprecated) Gotchiverse REALM Diamond: https://polygonscan.com/token/0x1D0360BaC7299C86Ec8E99d0c1C9A95FEfaF2a11
+- (Deprecated) Gotchiverse Installations https://polygonscan.com/address/0x19f870bd94a34b3adaa9caa439d333da18d6812a
+- (Deprecated) Gotchiverse Tiles Diamond: https://polygonscan.com/address/0x9216c31d8146bCB3eA5a9162Dc1702e8AEDCa355
+- (Deprecated) Aavegotchi FUD Token: https://polygonscan.com/address/0x403e967b044d4be25170310157cb1a4bf10bdd0f
+- (Deprecated) Aavegotchi FOMO Token: https://polygonscan.com/address/0x44a6e0be76e1d9620a7f76588e4509fe4fa8e8c8
+- (Deprecated) Aavegotchi ALPHA Token: https://polygonscan.com/address/0x6a3e7c3c6ef65ee26975b12293ca1aad7e1daed2
+- (Deprecated) Aavegotchi KEK Token: https://polygonscan.com/address/0x42e5e06ef5b90fe15f853f59299fc96259209c5c
+- (Deprecated) Aavegotchi GLTR Token: https://polygonscan.com/address/0x3801C3B3B5c98F88a9c9005966AA96aa440B9Afc
 - GLTR Staking Diamond: https://polygonscan.com/address/0x1fE64677Ab1397e20A1211AFae2758570fEa1B8c
-- FAKE Gotchis Art Diamond (ERC721): https://polygonscan.com/address/0xA4E3513c98b30d4D7cc578d2C328Bd550725D1D0
-- FAKE Gotchi Card Diamond (ERC1155): https://polygonscan.com/address/0x9f6BcC63e86D44c46e85564E9383E650dc0b56D7
-- Forge Diamond: https://polygonscan.com/address/0x4fDfc1B53Fd1D80d969C984ba7a8CE4c7bAaD442
-
-## Amoy
-
-- GHST Token (Proxy Address): https://amoy.polygonscan.com/token/0xF679b8D109b2d23931237Ce948a7D784727c0897
-- Aavegotchi Diamond: https://amoy.polygonscan.com/token/0xC80DB01aeDAD5F6E3088c75F60E52f579Cf1D3Cb
-- Wearable Diamond: https://amoy.polygonscan.com/address/0xAA201d960404140296Ea85570940830be08DAc70
-- GHST Staking Diamond: https://amoy.polygonscan.com/token/0xae83d5fc564Ef58224e934ba4Df72a100d5082a0
-- Aavegotchi GBM Baazaar Diamond: https://amoy.polygonscan.com/address/0x05861AD79377542648206C5F7bFd664505BB4dA4#code
-- Aavegotchi Raffle Contract: https://amoy.polygonscan.com/token/0x6c723cac1E35FE29a175b287AE242d4
-- 24c52c1CE
-- Gotchiverse REALM Diamond: https://amoy.polygonscan.com/token/0x5a4faEb79951bAAa0866B72fD6517E693c8E4620
-- Gotchiverse Installations https://amoy.polygonscan.com/address/0x514b7c55FB3DFf3533B58D85CD25Ba04bb30612D
-- Gotchiverse Tiles Diamond: https://amoy.polygonscan.com/address/0xCa6F4Ef19a1Beb9BeF12f64b395087E5680bcB22
-- Aavegotchi FUD Token: https://amoy.polygonscan.com/address/0xaa1C59f2B45EF192B71De7d0CB5d95b664749d9c
-- Aavegotchi FOMO Token: https://amoy.polygonscan.com//address/0x616d6Df54A9754B81aa43971794D86B3C229fA8B
-- Aavegotchi ALPHA Token: https://amoy.polygonscan.com/address/0x44bca9B7C2C5F9f47D4da5B72deCdcF3a42535d8
-- Aavegotchi KEK Token: https://amoy.polygonscan.com/address/0x9b39452041aCe85C03D3Ae76D0D5ccFf3a86dEc9
-- Aavegotchi GLTR Token: https://amoy.polygonscan.com/address/0x7E4CB2bc361898bB17C8D847032676A7Fd23D625
-- FAKE Gotchis Art Diamond (ERC721): https://amoy.polygonscan.com/address/0x87e235d1A6576a4dE87B5698545d892d256250D9
-- FAKE Gotchi Card Diamond (ERC1155): https://amoy.polygonscan.com/address/0xFD10a83d225DbE85A2ca0426A8E11f40c2bEA943
-- Forge Diamond: https://amoy.polygonscan.com/address/0xF7c2AC46723Ad844620F798ECe67f5C673120FB6
+- (Deprecated) FAKE Gotchis Art Diamond (ERC721): https://polygonscan.com/address/0xA4E3513c98b30d4D7cc578d2C328Bd550725D1D0
+- (Deprecated) FAKE Gotchi Card Diamond (ERC1155): https://polygonscan.com/address/0x9f6BcC63e86D44c46e85564E9383E650dc0b56D7
+- (Deprecated) Forge Diamond: https://polygonscan.com/address/0x4fDfc1B53Fd1D80d969C984ba7a8CE4c7bAaD442
 
 ## Base
 
@@ -62,6 +41,14 @@ Deployed contract addresses for all Aavegotchi Contracts
 - GBM Auction (Baazaar): https://basescan.org/address/0x80320A0000C7A6a34086E2ACAD6915Ff57FfDA31
 - Gotchi Guardians Skins: https://basescan.org/address/0x898d0F54d8CF60698972a75be7Ea1B45aAb66e59
 - Gotchi Guardians Profile: https://basescan.org/address/0xdc27a8BF85508387cB8c3B97BA77f3941eDFF45f
+- Gotchiverse REALM Parcels: https://basescan.org/address/0x4B0040c3646D3c44B8a28Ad7055cfCF536c05372
+- Gotchiverse Installations: https://basescan.org/address/0xebba5b725A2889f7f089a6cAE0246A32cad4E26b
+- Gotchiverse Tiles: https://basescan.org/address/0x617fdB8093b309e4699107F48812b407A7c37938
+- Aavegotchi FUD Token: https://basescan.org/address/0x2028b4043e6722Ea164946c82fe806c4a43a0fF4
+- Aavegotchi FOMO Token: https://basescan.org/address/0xA32137bfb57d2b6A9Fd2956Ba4B54741a6D54b58
+- Aavegotchi ALPHA Token: https://basescan.org/address/0x15e7CaC885e3730ce6389447BC0f7AC032f31947
+- Aavegotchi KEK Token: https://basescan.org/address/0xE52b9170fF4ece4C35E796Ffd74B57Dec68Ca0e5
+- Aavegotchi GLTR Token: https://basescan.org/address/0x4D140CE792bEdc430498c2d219AfBC33e2992c9D
 
 ## Base Sepolia Testnet
 
