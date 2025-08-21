@@ -70,12 +70,14 @@ Deployed contract addresses for all Aavegotchi Contracts
 
 ## Github Repos
 
-- GHST Token: https://github.com/AragonBlack/fundraising
-- Aavegotchi Diamond: https://github.com/aavegotchi/aavegotchi-contracts
+- GHST Token: https://github.com/AragonBlack/fundraising (Deprecated)
+- Aavegotchi Diamond Polygon (Deprecated): https://github.com/aavegotchi/aavegotchi-contracts
+- Aavegotchi Diamond Base: https://github.com/aavegotchi/aavegotchi-base
 - GHST Staking Diamond: https://github.com/aavegotchi/ghst-staking
 - GBM Diamond: https://github.com/aavegotchi/aavegotchi-gbm
 - Raffle Contract: https://github.com/aavegotchi/raffle
-- REALM Diamond (REALM, Installations, Tiles): https://github.com/aavegotchi/aavegotchi-realm-diamond
+- REALM Diamond Polygon (REALM, Installations, Tiles, Polygon): https://github.com/aavegotchi/aavegotchi-realm-diamond
+- REALM Diamond Base (REALM, Installations, Tiles, Polygon): https://github.com/aavegotchi/aavegotchi-realm-geist
 
 ## ABIs
 
