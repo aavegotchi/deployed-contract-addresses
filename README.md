@@ -50,6 +50,7 @@ Deployed contract addresses for all Aavegotchi Contracts
 - Aavegotchi KEK Token: https://basescan.org/address/0xE52b9170fF4ece4C35E796Ffd74B57Dec68Ca0e5
 - Aavegotchi GLTR Token: https://basescan.org/address/0x4D140CE792bEdc430498c2d219AfBC33e2992c9D
 - GLTR Staking Contract: https://basescan.org/address/0xaB449DcA14413a6ae0bcea9Ea210B57aCe280d2c
+- DeFi Dungeons Staking Contract: https://basescan.org/address/0xb27fa55e15be89e69b9e5babcfb30a8f67ad92a0
 
 ## Base Sepolia Testnet
 
